@@ -14,7 +14,7 @@ RESTful API to simulate simple banking operations.
 1. Checkout the project from GitHub
 
 ```
-git clone https://github.com/sbathina/BankApp
+git clone https://github.com/Satgityam/BankWise
 
 ```
 2. Enable Lombok support on your IDE
@@ -87,5 +87,5 @@ http://localhost:8989/bank-api/h2-console/
 
 ## Authors
 
-* **Shyam Bathina**
+* **Satyam Kumar
 
